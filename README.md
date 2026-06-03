@@ -1,8 +1,9 @@
-# Command Car: STM32 From Sccratch
+# OSCILLOSCOPE From Scratch
 
 ![C](https://img.shields.io/badge/Language-C-blue.svg)
 ![Build](https://img.shields.io/badge/Build-Make-orange.svg)
 ![MCU](https://img.shields.io/badge/MCU-STM32F108-green.svg)
+![MCU](https://img.shields.io/badge/MCU-ESP32-32S-green.svg)
 ![Status](https://img.shields.io/badge/Status-Active_Learning-success.svg)
 
 ## Documents
