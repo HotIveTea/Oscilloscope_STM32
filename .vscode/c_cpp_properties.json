@@ -4,7 +4,7 @@
             "name": "Oscilloscope_STM32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "${workspaceFolder}/Inc"
+                "${workspaceFolder}/STM32/Inc"
             ],
             "defines": [],
             "compilerPath": "arm-none-eabi-gcc",
